@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TradeSpot</string>
+    <string name="title_activity_main">TradeSpot</string>
+    <string name="package_name">tradespot.online</string>
+    <string name="custom_url_scheme">tradespot.online</string>
+</resources>
