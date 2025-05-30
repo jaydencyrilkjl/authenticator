@@ -4,7 +4,7 @@ android {
     namespace "tradespot.online"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "tradespot.online"
+        applicationId "tradespot.auth"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 2
